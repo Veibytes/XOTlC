@@ -1,6 +1,3 @@
-# 💫 About Me
-👋 Hey, my name is Xotic! You may know me from projects like Blacket.
-<br>
 ❓ If you have any questions or just want to chat, join our Discord server at [https://discord.gg/SdMtmMcJE](https://discord.gg/SdMtmMcJE)
 
 # 🌐 Socials
